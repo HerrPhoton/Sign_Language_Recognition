@@ -39,4 +39,17 @@ PopSign предназначен для того, чтобы помочь род
 
 ## Ход работы
 ### Подготовить датасет 
-1[](https://sun9-35.userapi.com/impg/B9g9_tG07u3xsj9nc5AOMxQKt-rziPdRR47kww/uZsw-sEzlCk.jpg?size=1280x369&quality=95&sign=982419e7a65f4e0ba4d81be6fb3594d9&type=album)
+
+---
+
+![](https://github.com/HerrPhoton/Sign_Language_Recognition/blob/main/images/photo_2023-05-23%2019.45.06.jpeg)
+
+---
+
+Тут Саня напиши мне что-то
+## Модель
+Тут потом Соня что-то напишет 
+## Тестирование модели 
+Тут Андрей что-то напишет
+### Результат
+Тут тип наш рейтинг на каггле

@@ -72,6 +72,10 @@ self.l1 = nn.Sequential(nn.Linear(in_features, 128),
 <img src="https://github.com/HerrPhoton/Sign_Language_Recognition/blob/main/images/Metric.png" width="500">
 
 ---
+# Model
+<img src="https://github.com/HerrPhoton/Sign_Language_Recognition/blob/main/images/model.png" width="1000">
+
+---
 
 ## Тестирование модели 
 Тут Андрей что-то напишет
